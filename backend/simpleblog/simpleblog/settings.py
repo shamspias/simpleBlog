@@ -88,11 +88,11 @@ WSGI_APPLICATION = 'simpleblog.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'opblog',
-        'USER': 'pias',
-        'PASSWORD': '461971pias',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'localhost',
-        'PORT': '5559',
+        'PORT': '',
     }
 }
 
