@@ -1,10 +1,10 @@
 import React from 'react';
 
 
-const category = () => {
+const category = () => (
     <div>
     Category
 </div>
-}
+);
  
 export default category;

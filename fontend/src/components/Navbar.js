@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
-const Navbar = () => {
+const navbar = () => (
     <nav>
         Navbar
     </nav>
-}
+);
 
-export default Navbar;
+export default navbar;
+
+
